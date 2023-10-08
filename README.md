@@ -2,7 +2,7 @@
 Clustering-of-National-Anthems-using-NLP  This repository contains the jupyter notebook that has the clustered anthems drawn in a choropleth map in Folium.
 
 # References
-All material and code can be found in this Github repo.
+All material and code can be found in this Github Repository.
 
 [Term Frequency — Inverse Document Frequency statistics](https://jmotif.github.io/sax-vsm_site/morea/algorithm/TFIDF.html)
 
